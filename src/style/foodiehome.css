@@ -1,0 +1,19 @@
+@media only screen and (max-width:760px){
+    .home .image img{
+        width: 1000px;   
+    }
+    .home .details h1{
+        font-size: 100px;  
+    }  
+}
+.Home{
+    background-color: orange;
+}
+.container .text{
+    position: relative;
+    left: 150px;
+    top: 60px;
+}
+.container .mainimg {
+    margin-top: 10px;
+}

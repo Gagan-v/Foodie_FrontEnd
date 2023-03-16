@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+}
+.banner{
+    background-position: center ;
+    background-size: cover;
+    background-image: url('C:/Users/gagan/Desktop/Mern/Front_End/public/images/banner1.avif');
+    height: 75vh;
+    background-attachment:fixed;
+}
+.aboutFoodie{
+    background-color: orange;
+}
+.food{
+    background-color: orange;
+}
+.post{
+    background-color: orange;
+
+}

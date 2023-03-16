@@ -1,0 +1,19 @@
+.signup{
+    background-image: url('C:/Users/gagan/Desktop/Mern/Front_End/public/f1.jpg');
+    background-size: cover;
+    height: 805px;   
+}
+.signup h1{
+    text-align: center;
+    padding: 38px 0px;
+    font-size: 55px;
+}
+.signup .content{
+    position: relative;
+    left: 170px;
+}
+.login_btn{
+    position: relative;
+    left: 170px;
+    margin-top: 10px;
+}
